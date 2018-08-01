@@ -1,0 +1,64 @@
+h1{
+  color: coral;
+  font-size: 2.5em;
+}
+
+html{
+  background: coral;
+  padding: 80px;
+
+}
+
+.jj{
+
+    font-size: 150%;
+    font-style: none;
+    font-weight: normal;
+
+
+    background: white;
+    background-size: contain;
+    margin:5%;
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-bottom: 10%;
+  }
+
+#joke{text-align: center;}
+
+.collapsible {
+  background-color: coral;
+  color: coral;
+  padding: none;
+  width:50%;
+  border: none;
+  text-align: left;
+  outline: grey;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: white;
+}
+
+.hh{
+  text-align:center;
+  color: coral;
+  font-size: 150%;
+  font-style: none;
+  font-weight: normal;
+  background-color: white;
+}
+
+.title{
+  font-size: 150%;
+  text-align: center;
+  background: white;
+  background-size: contain;
+  margin:5%;
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 10%;
+}
